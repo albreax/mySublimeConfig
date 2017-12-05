@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+require Data::Dumper;
+warn Data::Dumper::Dumper($1)
+]]></content>
+    <tabTrigger>dd</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Data Dumper</description>
+</snippet>

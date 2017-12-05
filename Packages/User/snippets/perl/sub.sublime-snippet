@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+# DESCRIPTION
+#   $1
+# AUTHOR
+#   albrecht.naumann@unitedprint.com
+# CREATION DATE
+#   $2
+# RETURN
+#	$3
+# SOURCE
+sub $4 {
+	$5
+}
+]]></content>
+    <tabTrigger>sub</tabTrigger>
+    <scope>source.perl</scope>
+    <description>create sub snippet</description>
+</snippet>

@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"A File Icon",
+		"BetterSnippetManager",
+		"Boxy Theme",
+		"CTags",
+		"GitSavvy",
+		"ModernPerl",
+		"Package Control",
+		"WhoCalled Function Finder"
+	]
+}
