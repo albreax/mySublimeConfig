@@ -12,6 +12,7 @@
 sub $4 {
 	$5
 }
+
 ]]></content>
     <tabTrigger>sub</tabTrigger>
     <scope>source.perl</scope>
